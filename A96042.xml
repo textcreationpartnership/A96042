@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the L. Admiral Vantrump, concerning the King of Scots, and the Parliament of England; published by sound of trumpet throughout his whole navie. With his protestation thereupon; and his preparations and resolution to fight the English navie, either to death or vicotry, and purchase honour and freedome with the price of his bloud. Also, the last engagement of the English and Dutch, and the particulars thereof: with the comming up of Sir George Ayscue to General Blague in the Downs, and their further proceedings and resolutions touching Vantrump and the Navie. Sent in a letter from Captain Tylers ship, the tyger; to a member of the councel of state; and ordered to be published and dispersed throughout the several counties of this nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96042</idno>
+            <idno type="STC">Wing V98</idno>
+            <idno type="STC">Thomason E668_14</idno>
+            <idno type="STC">ESTC R206978</idno>
+            <idno type="EEBO-CITATION">99866056</idno>
+            <idno type="PROQUEST">99866056</idno>
+            <idno type="VID">118316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118316)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E668[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the L. Admiral Vantrump, concerning the King of Scots, and the Parliament of England; published by sound of trumpet throughout his whole navie. With his protestation thereupon; and his preparations and resolution to fight the English navie, either to death or vicotry, and purchase honour and freedome with the price of his bloud. Also, the last engagement of the English and Dutch, and the particulars thereof: with the comming up of Sir George Ayscue to General Blague in the Downs, and their further proceedings and resolutions touching Vantrump and the Navie. Sent in a letter from Captain Tylers ship, the tyger; to a member of the councel of state; and ordered to be published and dispersed throughout the several counties of this nation.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam: Cotton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by Admiral Tromp.</note>
+                  <note>Contains two letters. The first, describing a naval action and Admiral Tromp's declaration, is dated: June 22. 1652. The second describes preparations for military action in Ireland.</note>
+                  <note>Annotation on Thomason copy: "June. 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118316:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE L. Admiral Vantrump, CONCERNING The King of Scots, and the Parliament of ENGLAND; publiſhed by ſound of Trumpet throughout his whole Navie.</p>
+            <p>With his Proteſtation thereupon; and his Preparations and Reſolution to fight the Engliſh Navie, either to Death or Victory, and purchaſe Honour and Freedome with the price of his Bloud.</p>
+            <p>ALSO, The laſt Engagement of the Engliſh and Dutch, and the par<g ref="char:EOLhyphen"/>ticulars thereof: With the comming up of Sir George Ayſcue to General Blague in the Downs, and their further Proceedings and Reſolutions touching Vantrump and the Navie.</p>
+            <p>SEnt in a Letter from Captain Tyl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs Ship, the Tyger; to a Member of the Councel of State; And Ordered to be pub<g ref="char:EOLhyphen"/>liſhed and diſperſed throughout the ſeveral Counties of this <hi>Nation.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>SAM: COTTON,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118316:2"/>
+            <pb n="3" facs="tcp:118316:2"/>
+            <head>A DECLARATION Of the Lord Admiral VANTRVMP Publiſhed By ſound of Trumpet, aboard the Dutch Na<g ref="char:EOLhyphen"/>vy, <hi>&amp;c.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SInce my laſt of the 12th. inſtant, We have had ano<g ref="char:EOLhyphen"/>ther engagement with the Hollander, which was diſputed with ſundry fiery arguments, and maintai<g ref="char:EOLhyphen"/>ned with great gallantry on both ſides; for, indeed they are a very ſtout enemy, and fight with great courage and magnanimity of Spirit, and as their ſhips are of a great Bulk and Burthen, ſo are they alſo well man'd; their Mus<g ref="char:EOLhyphen"/>quetiers man the Decks with unreſiſtable courage, not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="4" facs="tcp:118316:3"/>the bullets flying as thick as hail (a compa<g ref="char:EOLhyphen"/>riſon by way of ſimile) their Captains are excellent Na<g ref="char:EOLhyphen"/>vigators, and ſeem to infuſe a ſecond nature into the Ma<g ref="char:EOLhyphen"/>riners, before an aſſault be given, the better to inable them to withſtand a ſtorm, that is; before they begin to ſight, it is their uſuall cuſtome, to give each one three cups of Brandy wine, viz. ſtrong-water, to encourage them, which makes them as valiant as ſo many Hectors; but the Cap<g ref="char:EOLhyphen"/>tains prove not right Alchymiſts at all times; for that which they laſt adminiſtred to the poor Sea-men, took not its full operation, but rather ſtruck a ſpirit of Cow<g ref="char:EOLhyphen"/>ardize in them, as appears; Captain Peacock, Command<g ref="char:EOLhyphen"/>er of the Tyger, having received orders from Gen. Blake, to ſcout forth, for making a diſcovery of Vantrump, met with five Dutchmen, who hailing them, and commanding them to ſtrike ſail, they refuſed; ſo great is their impe<g ref="char:EOLhyphen"/>riouſneſſe: whereupon he gave them one gun with a round ball, they anſwered in the like nature with three; inſomuch that a bloudy fight began, and for the ſpace of four hours a hot diſpute was with great gallantry performed on both ſides; till at laſt it pleaſed the divine power, to make the Engliſh victorious, by finking one, and taking three, but not without loſſe, yet not ſo great as was ſuppoſed; for the truth is, our General much feared, that he had been either ſunk or taken, by reaſon that he was miſſing three days; but upon the fourth day he returned with triumph, and brought in three Dutch prizes with him; we have taken in all about 44 ſail, yet many there are that ſtick not to ſay, that Vantrump hath given the Eng<g ref="char:EOLhyphen"/>liſh a great overthrow, which maketh the Scots to re<g ref="char:EOLhyphen"/>joyce exceedingly, and ſay, that Common-wealths folks muſt not reign always; neither muſt the Common<g ref="char:EOLhyphen"/>wealth of England trample over the whole world, <hi>hut a<g ref="char:EOLhyphen"/>way hut,</hi> quoth the Scot, they miſken themſelves; Alas!
+<pb n="5" facs="tcp:118316:3"/>they are groſly miſtaken it is not apparent, that we know them better now, then ever, and have made a further progreſſe into that barren Countrey, then in any Kings reign formerly; But I will paſs them by, and proceed a<g ref="char:EOLhyphen"/>gain to Vantrump (the Dutch Lyon as the Flemings call him) who hath ſet forth a Declaration abroad the Navy, publiſhed by ſound of Trumpet, that what Cap<g ref="char:EOLhyphen"/>tain, or Officer whatſoever, that ſhall ſtrike ſail to the Engliſh, ſhall die without mercy; ſo great is his imperi<g ref="char:EOLhyphen"/>ouſneſs and malice, that he endeavours nothing more then to beget a war betwixt the two States; he lies now hovering about the Coaſt of France, and gives out, that he will have the other bout, although it be with the price of his bloud, which may ſoon be; for the Gene<g ref="char:EOLhyphen"/>rall is reſolved to weigh anchor with 60 ſail, to find him out, and fight him: Sir George Ayſcue is come up to our Fleet, from Plymouth, who ſaluted Gene<g ref="char:EOLhyphen"/>rall Blake, with diſcharging his guns our whole Fleet an<g ref="char:EOLhyphen"/>ſwered him again with the like ſalutation; both Fleets being joyned ſudden action is expected, we hear that ſixe fire-ſhips are comming to us, and twenty more men of war, which will make us about one hundred ſail; Col<g ref="char:EOLhyphen"/>lonel Goffs Regiment of foot, and Collonel Ingolds<g ref="char:EOLhyphen"/>bies are come aboard, and ſeem very unanimous, ha<g ref="char:EOLhyphen"/>ving proteſted to live and die with our Seamen.</p>
+               <closer>
+                  <dateline>From aboard the Lawrel in the Downs, <date>Iune 22. 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:118316:4"/>
+               <head>A Letter from Ireland.</head>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>YOu may perceive by the Articles of Kilkenny; that all the Rebels in the ſeveral Provinces had time pre<g ref="char:EOLhyphen"/>fixed them for the accepting of thoſe conditions if they pleaſed, but Clanrickard and his party in Connaught, Grace, and his party in the Kings and Queens County, Collonel Phelim Birne and his party in Wexford and Wicklow, and Sir Phelim O Neal, with the O Relies, Mac Mahon, &amp;c. in Ulſter, have wholly declared againſt the acceptance of the Articles; in order to which, the Lord of Clanrickard, with the Connaught Forces mar<g ref="char:EOLhyphen"/>ched to Balliſhanon about May 16, drew ſome Ordnance from Sligo, and battered two days, made abreach, and ſtormed it, but was twice beaten of with co<g ref="char:cmbAbbrStroke">̄</g>ſiderable loſs, yet at length carried it. From thence he marched, and took Dongal Caſtle, and the Ulſter Forces joyned with him. This intelligence came to us the ſecond inſtant, and brought us alſo aſſurance, that the Lord Preſident with the Connaught and Athlone forces marched to Balliſha<g ref="char:EOLhyphen"/>non<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n proſecution of the Lord Clanrickard, and was there about the 24 of May. That Col. Venables with the Ulſter forces lay about Omagh, the Commiſſary General marched towards Venables the 24 of May, with about 300 horſe to ſtrengthen his party, and that the Legan men, headed by Col. Sanderſon, had taken the paſſages upon Barns-moore to ſtop Clanrickards paſſage into Ra<g ref="char:EOLhyphen"/>pha. So that you ſee, all the care and vigilancy poſſible is taken to prevent Clanrickards return, and to fight him
+<pb n="7" facs="tcp:118316:4"/>with the Ulſter men in the north, where I hope God hath brought them to judge and avenge upon them the inno<g ref="char:EOLhyphen"/>cent blood that was firſt ſhed in that Province. I doubt not, but by this time our forces are near an engagement with the Rebels, or that it is already done, and if ſo, I am conſident you will hear of it as ſoon as we where we now lie. As for Grace, whoſe force conſiſted of about 1200 foot, and 400 horſe, they have been (of late) ſo hunted from place to place by Col. Sankey on the one ſide, and Col. Axtel on the other ſide, that to ſave themſelves they were forced to diſperſe, and ſome of his Officers (as well horſe as foot) have come in, and ſubmitted and delivered up their arms. We hear alſo that Weſtmeath, Slane, Dungan, Scurlogh, and others have laid down their arms in Lemſter, of which I am ſure you have a more particu<g ref="char:EOLhyphen"/>lar information then we have.</p>
+               <p>It remains now that I give you the knowledge concer<g ref="char:EOLhyphen"/>ning the actings of the Lord Muskerry, which hath been tranſacted by the Commiſſioners at Clonmel. He ſent the Commiſſioners an abſolute rejection of the Articles of Kilkenny, deſiring to have a Treaty entertained with himſelf. The Meſſenger that brought this, was Captain David Power of Kilholme, a man ſubtil enough to avoid the danger he ſell into, but that God that commonly takes the wiſe in their own craftineſs, led the Commiſſioners to enquire why a man of his quality ſhould be imployed about ſo fruitleſs an errant. Whereupon further ſearch being made, they found about him and his ſervant, ſome Letters to the Enemy of dangerous conſequence, and al<g ref="char:EOLhyphen"/>ſo cyphers, and other papers, which his ſafe conduct would not bear him out in, upon which he was commit<g ref="char:EOLhyphen"/>ted in order to his further trial, and an intimation of all was ſent to his Lord, the Lord Muskerry. After this, ſee<g ref="char:EOLhyphen"/>ing a further Treaty would not be granted him, he ſent a<g ref="char:EOLhyphen"/>nother
+<pb n="8" facs="tcp:118316:5"/>Meſſenger, intimating, that if he might himſelf have aſſurance for life, he would ſubmit with his party to the Parliaments mercy, and render the ſtrong hold of Roſſe again into the Parl hand, with his other ſtrengths. This meſſage came from him on Sunday laſt, when the Lievt. Gen. was prepared to march into Kerry the Tueſ<g ref="char:EOLhyphen"/>day following, with a party of 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>00 foot, and 800 horſe to reduce that County to the Parliaments obedience. Upon due debate and conſideration, it was adviſed to ſend the Lord Muskerry a ſafe guard for life (and accordingly acted) onely upon the condition aforeſaid. Upon Wed<g ref="char:EOLhyphen"/>neſday in the evening his meſſenger returned, and aſſured us that his Lordſhip was ſtill conſtant to his firſt reſolu<g ref="char:EOLhyphen"/>tion, but that ſeveral of his party had deſerted him, be<g ref="char:EOLhyphen"/>cauſe their lives were not ſecured as well as his, and that if the Lievt. Gen. marched up to him he would deliver Roſs into his hands. This anſwer come to the Lievt. Gen. ve<g ref="char:EOLhyphen"/>ſterday morning, whowe beleeve was then within 12 miles of the place, what the iſſue is we know not, but when we receive it you ſhall know it the firſt opportunity.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
